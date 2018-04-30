@@ -1,2 +1,2 @@
-# pentable
+# Pentable
 Pentable
