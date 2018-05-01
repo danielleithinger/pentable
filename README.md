@@ -18,5 +18,5 @@ peripheral display and direct pen input device. This work describes the design o
 * Office desk with A0 tabletop covered in Anoto Pattern and protective plexiglass sheet 
 * Ceiling-mounted projector (XGA resolution)
 
-![PenTable Setup](https://raw.githubusercontent.com/danielleithinger/pentable/master/pentable-graphic.jpg | width=512)
+![PenTable Setup](https://raw.githubusercontent.com/danielleithinger/pentable/master/pentable-graphic.jpg)
 Figure: The input devices keyboard (a), mouse (b), and digital pen (c) are wirelessly connected to a PC (d) under the table. The PCs graphics card outputs are connected to an LCD display (e) and a ceiling-mounted projector (f).
